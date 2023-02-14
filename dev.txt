@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hjdsghjcbnbvhygvjcb s
 
 hvvshdggvhyjeg
+=======
+adding some new twxt into dev file
+>>>>>>> dev
