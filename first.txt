@@ -1,6 +1,5 @@
 hello git
-ghdcfhggj
-hfhjmbvczawe
-good morning
 
-hi shreya
+todays date is 14th feb
+
+adding file from remote repo masteer
